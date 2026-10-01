@@ -1,4 +1,5 @@
-def sub(a, b):
-    return a - b
+def add(a, b):
+    return a + b
 
-print(sub(4, 3))
+
+print(add(4, 3))
